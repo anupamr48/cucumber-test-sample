@@ -14,3 +14,7 @@ public class TestRunnerNew {
 
 }
 
+class EndTest {
+
+}
+
